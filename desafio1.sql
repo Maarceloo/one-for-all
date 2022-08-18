@@ -97,7 +97,7 @@ INSERT INTO SpotifyClone.musica (nome_musica, duracao_seg, album_id)
  VALUES
    ('BREAK MY SOUL', 279, 1),
    ('VIRGO’S GROOVE', 369, 1),
-   ('ALIEN SUPERSTARL', 116, 1),
+   ('ALIEN SUPERSTAR', 116, 1),
    ('Don’t Stop Me Now', 203, 2),
    ('Under Pressure', 152, 3),
    ('Como Nossos Pais', 105, 4),
